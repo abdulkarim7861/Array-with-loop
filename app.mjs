@@ -17,10 +17,10 @@ for(let i = 0 ; i<number.length ; i++){
 }
 
 //Q:4
-// let table = prompt("Enter Any Number :")
-// for(let i = 1; i<11 ; i++){
-//     console.log(`${table} x ${i} = ${table * i}`)
-// }
+let table = prompt("Enter Any Number :")
+for(let i = 1; i<11 ; i++){
+    console.log(`${table} x ${i} = ${table * i}`)
+}
 
 //Q:5
 let fruits = ["apple", "banana", "mango","orange","strawberry"]
